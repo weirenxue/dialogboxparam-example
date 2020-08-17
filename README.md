@@ -1,4 +1,4 @@
-# This project is an example of using API DialogBoxParam.
+# This project is an example of using Win32 API DialogBoxParam.
 ### Enveironment: Visual Studio Pro 2017, Windows10 x64.
 
 1. The mechanism of modal windows  
